@@ -37,14 +37,10 @@
             numbers.Clear();
         }
 
-        public void Add()
-        {
-            numbers.Add(number);
-            number = 0;
-        }
-
         public void Add(System.Collections.Generic.HashSet<int> nums)
         {
+            System.Diagnostics.Debug.Assert(numbers.Count == 0);
+            number = 0;
             numbers.UnionWith(nums);
         }
 
