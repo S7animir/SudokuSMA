@@ -1,0 +1,8 @@
+C:\Users\Stancho\Desktop\SudokuSMA\SudokuSMA\SudokuSMA\obj\x86\Debug\SudokuSMA.Properties.Resources.resources
+C:\Users\Stancho\Desktop\SudokuSMA\SudokuSMA\SudokuSMA\obj\x86\Debug\SudokuSMA.csproj.GenerateResource.Cache
+C:\Users\Stancho\Desktop\SudokuSMA\SudokuSMA\SudokuSMA\bin\Debug\SudokuSMA.exe
+C:\Users\Stancho\Desktop\SudokuSMA\SudokuSMA\SudokuSMA\bin\Debug\SudokuSMA.pdb
+C:\Users\Stancho\Desktop\SudokuSMA\SudokuSMA\SudokuSMA\obj\x86\Debug\SudokuSMA.exe
+C:\Users\Stancho\Desktop\SudokuSMA\SudokuSMA\SudokuSMA\obj\x86\Debug\SudokuSMA.pdb
+C:\Users\Stancho\Desktop\SudokuSMA\SudokuSMA\SudokuSMA\obj\x86\Debug\SudokuSMA.FormMain.resources
+C:\Users\Stancho\Desktop\SudokuSMA\SudokuSMA\SudokuSMA\obj\x86\Debug\SudokuSMA.csprojResolveAssemblyReference.cache
